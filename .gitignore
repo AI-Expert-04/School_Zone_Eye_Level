@@ -3,7 +3,7 @@ CCTV_Detecter/yolov5/.github
 CCTV_Detecter/yolov5/data
 CCTV_Detecter/yolov5/models
 CCTV_Detecter/yolov5/runs
-CCTV_Detecter/yolov5/Name_Models
+# CCTV_Detecter/yolov5/Name_Models
 CCTV_Detecter/yolov5/image_data
 CCTV_Detecter/yolov5/.pre-commit-config.yaml
 CCTV_Detecter/yolov5/Adult_Kid.py
