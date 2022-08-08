@@ -1,0 +1,7 @@
+names:
+- person_Kid
+- person_Adult
+nc: 2
+test: /content/Kid_Adult_AI-1/test.txt
+train: /content/Kid_Adult_AI-1/train.txt
+val: /content/Kid_Adult_AI-1/val.txt

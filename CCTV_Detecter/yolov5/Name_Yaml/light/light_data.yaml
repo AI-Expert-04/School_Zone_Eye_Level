@@ -1,0 +1,8 @@
+names:
+- '횡단보도'
+- '빨간불'
+- '파란불'
+nc: 3
+test: /content/Project4-1/test.txt
+train: /content/Project4-1/train.txt
+val: /content/Project4-1/val.txt
