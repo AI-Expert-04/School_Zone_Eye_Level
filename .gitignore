@@ -1,0 +1,24 @@
+
+CCTV_Detecter/yolov5/.github
+CCTV_Detecter/yolov5/data
+CCTV_Detecter/yolov5/models
+CCTV_Detecter/yolov5/runs
+CCTV_Detecter/yolov5/Name_Models
+CCTV_Detecter/yolov5/image_data
+CCTV_Detecter/yolov5/.pre-commit-config.yaml
+CCTV_Detecter/yolov5/Adult_Kid.py
+CCTV_Detecter/yolov5/.gitignore
+CCTV_Detecter/yolov5/.gitattributes
+CCTV_Detecter/yolov5/detect.py
+CCTV_Detecter/yolov5/train.py
+CCTV_Detecter/yolov5/setup.cfg
+CCTV_Detecter/yolov5/requirements.txt
+CCTV_Detecter/yolov5/hubconf.py
+CCTV_Detecter/yolov5/export.py
+CCTV_Detecter/yolov5/val.py
+
+Pose Model/image
+Pose Model/image_2
+Pose Model/image_data
+
+
