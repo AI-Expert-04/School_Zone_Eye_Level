@@ -12,6 +12,19 @@
 ## 개발
 PyCharm프로그램으로 포즈인식 및 객체인식을 진행함.
 
+## 파일구조
+PLARD
+ |---- ptsemseg
+ |---- imgs
+ |---- outputs
+ |---- dataset
+ |    |---- training
+ |    |    |---- image_2
+ |    |    |---- ADI
+ |    |---- testing
+ |    |    |---- image_2
+ |    |    |---- ADI 
+
 핵심 구현을 위해 추가로 작성한 Pyhon 코드 파일들
 
 `CCTV_Detecter.py`
