@@ -1,6 +1,6 @@
 
 <p align=center>
-<img src="https://user-images.githubusercontent.com/26598708/63312262-e856cc00-c33b-11e9-8d1a-61c1098c5e61.png" width="70%"></img>
+<img src="" width="70%"></img>
 </p>
 
 ## 개발 의도
@@ -21,20 +21,16 @@ PyCharm프로그램으로 포즈인식 및 객체인식을 진행함.
 OverlayRing.cs는 HOTK_TrackedDevice.cs로 회전하는 carmera 오브젝트에 따라 값을 받는다.
 
 ##  결과
-<img src ="https://github.com/tnsgud9/VR-Overlay-Half_Ring/blob/master/Assets/Half-Ring/Sprites/gif/1.gif?raw=true" width="30%"></img>
-<img src ="https://github.com/tnsgud9/VR-Overlay-Half_Ring/blob/master/Assets/Half-Ring/Sprites/gif/1.gif?raw=true" width="30%"></img>
-<img src ="https://github.com/tnsgud9/VR-Overlay-Half_Ring/blob/master/Assets/Half-Ring/Sprites/gif/1.gif?raw=true" width="30%"></img>
-<img src ="https://github.com/tnsgud9/VR-Overlay-Half_Ring/blob/master/Assets/Half-Ring/Sprites/gif/1.gif?raw=true" width="30%"></img>
+<img src ="" width="30%"></img>
+<img src ="" width="30%"></img>
+<img src ="" width="30%"></img>
+<img src ="" width="30%"></img>
 
 ### 핵심코드
-##### OverlayRing.cs
+##### CCTV_Detecter.py
 <pre><code>
-    //Important : It is handled first. (Maximum Priority in define to Script Execution Order)
-    //중요 : 가장 먼저 처리된다.( 최고 우선 순위로 Script Execution Order에 지정되어 있다. )
-    void Update () {
-        //Debug.Log("HMD Rotation : " + carmera.transform.eulerAngles);
-        overlayOBJ.gameObject.transform.rotation = Quaternion.Euler(0 , 0, 360f-carmera.transform.eulerAngles.z);
-    }</code></pre>
+    
+    </code></pre>
 
 ## 추가 예정
 계절 및 날씨에 따른 결과들을 분석으로 상황에 맞는 인공지능을 만들 계획
