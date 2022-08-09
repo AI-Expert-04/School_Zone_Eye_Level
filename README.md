@@ -18,29 +18,27 @@ CCTV_Detecter
  |---- yolov5
  |    |---- Name_Models
  |    |    |---- Kid_Adult
- |    |    |    |---- Kid_Adult_best (1).pt
+ |    |    |    |---- Kid_Adult_best (1).pt  -> 어린이_어른 구별 모델
  |    |    |    |---- Kid_Adult_best.pt
  |    |    |    |---- Kid_Adult_last.pt
  |    |    |---- Object
- |    |    |    |---- Object.pt
+ |    |    |    |---- Object.pt -> 자동차, 버스, 트럭, 사람 감지 모델
  |    |    |---- light
- |    |    |    |---- light_best.pt
+ |    |    |    |---- light_best.pt -> 도로, 빨간불, 파란불 감지 모델
  |    |    |    |---- light_last.pt
  |    |---- Name_Yaml
  |    |    |---- Kid_Adult
- |    |    |    |---- Kid_Adult_data.yaml
+ |    |    |    |---- Kid_Adult_data.yaml -> class_name[어린이, 어른]
  |    |    |    |---- Kid_Adult_data2.yaml
- |    |    |    |---- Kid_Adult_last.pt
  |    |    |---- Object
- |    |    |    |---- Object.yaml
+ |    |    |    |---- Object.yaml -> class_name[자동차, 버스, 트럭, 사람]
  |    |    |---- light
- |    |    |    |---- light_best.pt
- |    |    |    |---- light_data.yaml
+ |    |    |    |---- light_data.yaml -> class_name[도로, 빨간불, 파란불]
  |    |---- mp3file
- |    |    |    |---- bick.mp3
- |    |    |    |---- fcar.mp3
- |    |    |    |---- kick-bick.mp3
- |    |    |    |---- kick.mp3
+ |    |    |    |---- bick.mp3--------|
+ |    |    |    |---- fcar.mp3--------|________ 상황에 맞는 소리
+ |    |    |    |---- kick-bick.mp3---|
+ |    |    |    |---- kick.mp3--------|
  |    |---- CCTV_Detecter.py
 ```
 
