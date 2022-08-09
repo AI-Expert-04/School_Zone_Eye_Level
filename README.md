@@ -12,11 +12,9 @@
 ## 개발
 PyCharm프로그램으로 포즈인식 및 객체인식을 진행함.
 
-핵심 구현을 위해 추가로 작성한 C# 코드 파일들
+핵심 구현을 위해 추가로 작성한 Pyhon 코드 파일들
 
-`OverlayRing.cs`
-`SettingManager.cs`
-`UI_Manager.cs`
+`CCTV_Detecter.py`
 
 OverlayRing.cs는 HOTK_TrackedDevice.cs로 회전하는 carmera 오브젝트에 따라 값을 받는다.
 
