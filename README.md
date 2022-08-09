@@ -14,17 +14,34 @@ PyCharm프로그램으로 포즈인식 및 객체인식을 진행함.
 
 ## 파일구조
 ```
-PLARD
- |---- ptsemseg
- |---- imgs
- |---- outputs
- |---- dataset
- |    |---- training
- |    |    |---- image_2
- |    |    |---- ADI
- |    |---- testing
- |    |    |---- image_2
- |    |    |---- ADI 
+CCTV_Detecter
+ |---- yolov5
+ |    |---- Name_Models
+ |    |    |---- Kid_Adult
+ |    |    |    |---- Kid_Adult_best (1).pt
+ |    |    |    |---- Kid_Adult_best.pt
+ |    |    |    |---- Kid_Adult_last.pt
+ |    |    |---- Object
+ |    |    |    |---- Object.pt
+ |    |    |---- light
+ |    |    |    |---- light_best.pt
+ |    |    |    |---- light_last.pt
+ |    |---- Name_Yaml
+ |    |    |---- Kid_Adult
+ |    |    |    |---- Kid_Adult_data.yaml
+ |    |    |    |---- Kid_Adult_data2.yaml
+ |    |    |    |---- Kid_Adult_last.pt
+ |    |    |---- Object
+ |    |    |    |---- Object.yaml
+ |    |    |---- light
+ |    |    |    |---- light_best.pt
+ |    |    |    |---- light_data.yaml
+ |    |---- mp3file
+ |    |    |    |---- bick.mp3
+ |    |    |    |---- fcar.mp3
+ |    |    |    |---- kick-bick.mp3
+ |    |    |    |---- kick.mp3
+ |    |---- CCTV_Detecter.py
 ```
 
 핵심 구현을 위해 추가로 작성한 Pyhon 코드 파일들
