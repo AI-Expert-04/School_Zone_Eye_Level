@@ -42,11 +42,11 @@ CCTV_Detecter
  |    |---- CCTV_Detecter.py
 ```
 
-핵심 구현을 위해 추가로 작성한 Pyhon 코드 파일들
+Pyhon 코드 파일
 
 `CCTV_Detecter.py`
+객체인식 + 포즈인식
 
-OverlayRing.cs는 HOTK_TrackedDevice.cs로 회전하는 carmera 오브젝트에 따라 값을 받는다.
 
 ##  결과
 <img src ="" width="30%"></img>
