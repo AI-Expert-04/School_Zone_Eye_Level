@@ -39,7 +39,15 @@ CCTV_Detecter
  |    |    |    |---- fcar.mp3--------|________ 상황에 맞는 소리
  |    |    |    |---- kick-bick.mp3---|
  |    |    |    |---- kick.mp3--------|
- |    |---- CCTV_Detecter.py
+ |    |---- CCTV_Detecter.py -----| 객체인식 코드
+ |    |---- GUI.py ---------------| GUI 코드
+ Pose Model
+ |---- mp3-flie
+ |    |    |    |---- blue.mp3------------|
+ |    |    |    |---- hello_school.mp3----|________ 상황에 맞는 소리
+ |    |    |    |---- left.mp3-------|
+ |    |    |    |---- right.mp3------------|
+ |---- Finall.py -----| 포즈 감지 코드
 ```
 
 Pyhon 코드 파일
