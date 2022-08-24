@@ -57,16 +57,12 @@ Pyhon 코드 파일
 
 
 ##  결과
-<img src ="README_Video_AND_Image/School_Zone_Arms.mp4" width="30%"></img>
-<img src ="README_Video_AND_Image/School_Zone_Heart.mp4" width="30%"></img>
-<img src ="README_Video_AND_Image/School_Zone_Left.mp4" width="30%"></img>
-<img src ="README_Video_AND_Image/School_Zone_Right.mp4" width="30%"></img>
+<img src ="README_Video_AND_Image/image2.png" width="30%"></img>
+<img src ="README_Video_AND_Image/image3.png" width="30%"></img>
+<img src ="README_Video_AND_Image/image4.png" width="30%"></img>
+<img src ="README_Video_AND_Image/image5.png" width="30%"></img>
 
-### 핵심코드
-##### CCTV_Detecter.py
-<pre><code>
-    
-    </code></pre>
+
 
 ## 추가 예정
 계절 및 날씨에 따른 결과들을 분석으로 상황에 맞는 인공지능을 만들 계획
