@@ -57,10 +57,10 @@ Pyhon 코드 파일
 
 
 ##  결과
-<img src ="" width="30%"></img>
-<img src ="" width="30%"></img>
-<img src ="" width="30%"></img>
-<img src ="" width="30%"></img>
+<img src ="README_Video_AND_Image/School_Zone_Arms.mp4" width="30%"></img>
+<img src ="README_Video_AND_Image/School_Zone_Heart.mp4" width="30%"></img>
+<img src ="README_Video_AND_Image/School_Zone_Left.mp4" width="30%"></img>
+<img src ="README_Video_AND_Image/School_Zone_Right.mp4" width="30%"></img>
 
 ### 핵심코드
 ##### CCTV_Detecter.py
