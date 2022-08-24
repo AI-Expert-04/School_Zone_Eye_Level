@@ -1,6 +1,6 @@
 
 <p align=center>
-<img src="" width="70%"></img>
+<img src="README_Video_AND_Image/image1.png" width="70%"></img>
 </p>
 
 ## 개발 의도
