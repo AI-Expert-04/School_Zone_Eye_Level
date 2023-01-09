@@ -12,8 +12,12 @@
 ## 개발
 PyCharm프로그램으로 포즈인식 및 객체인식을 진행함.
 
+## 기술
+딥러닝, 전이학습, 지도학습, Object_Detection, Optimizer, SGD, Loss, Box_loss, Label_loss, Nan방지, 영상처리, 포즈인식, find_pose
+
 ## 사용방법
 git clone
+
 deep learning 
 ### class
 ##### class.ymal
