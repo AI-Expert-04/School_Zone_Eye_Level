@@ -24,7 +24,8 @@
 # Python
 # C#
 </div>
-
+</td><td valign="top" width="50%">
+  
 ### learning method
 <div align="center">
 # Deep_learning
