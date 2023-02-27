@@ -17,8 +17,8 @@
 # Pycharm
 # Unity
 </div>  
+  
 </td><td valign="top" width="50%">
-
 ### Language
 <div align="center">
 # Python
