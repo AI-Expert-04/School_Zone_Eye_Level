@@ -17,7 +17,7 @@
 - Python
 - C#
 
-## learning method
+### learning method
 - Deep_learning
 - supervised learning
 - transfer learning
