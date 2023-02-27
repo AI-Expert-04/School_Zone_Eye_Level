@@ -10,8 +10,12 @@
 어린이안전교육이 부족하며, 현장에서 배우는 것이 아닌 이론으로 배우기 때문에 현장에서 사고가 많으며 돌발행동이 많음
 
 ## 개발
-Editor >>> Pycharm, Unity
-Language >>> Python, C#
+###Editor
+- Pycharm
+- Unity
+###Language
+- Python
+- C#
 
 ## 기술
 딥러닝, 전이학습, 지도학습, Object_Detection, Optimizer, SGD, Loss, Box_loss, Label_loss, Nan방지, 영상처리, 포즈인식, find_pose
