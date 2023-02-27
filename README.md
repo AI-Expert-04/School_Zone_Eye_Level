@@ -14,16 +14,17 @@
   
 ### Editor
 <div align="center">
-- Pycharm
-- Unity
+# Pycharm
+# Unity
 </div>  
 </td><td valign="top" width="50%">
 
 ### Language
 <div align="center">
-- Python
-- C#
+# Python
+# C#
 </div>
+</td><td valign="top" width="50%">
 </td></tr></table>
 
 ### learning method
