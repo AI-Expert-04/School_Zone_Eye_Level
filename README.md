@@ -10,10 +10,10 @@
 어린이안전교육이 부족하며, 현장에서 배우는 것이 아닌 이론으로 배우기 때문에 현장에서 사고가 많으며 돌발행동이 많음
 
 ## 개발
-###Editor
+### Editor
 - Pycharm
 - Unity
-###Language
+### Language
 - Python
 - C#
 
