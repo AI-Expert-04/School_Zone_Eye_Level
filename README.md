@@ -1,7 +1,7 @@
 
 <p align=center>
 <img src="README_Video_AND_Image/image1.png" width="70%"></img>
-<img width="460" src="https://github.com/AI-Expert-04/AI-Expert-04/blob/main/.idea/ezgif.com-gif-maker.gif">
+<img width="600" src="https://github.com/AI-Expert-04/AI-Expert-04/blob/main/.idea/ezgif.com-gif-maker.gif">
 </p>
 
 ## 개발 의도
