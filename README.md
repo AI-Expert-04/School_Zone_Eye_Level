@@ -22,6 +22,7 @@
 ### Language
 - Python
 - C#
+</td></tr></table>
 
 ### learning method
 - Deep_learning
