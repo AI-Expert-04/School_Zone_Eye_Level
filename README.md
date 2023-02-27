@@ -14,36 +14,40 @@
   
 ### Editor
 <div align="center">
-# Pycharm
-# Unity
+- Pycharm,
+- Unity
 </div>   
 </td><td valign="top" width="20%">
   
 ### Language
 <div align="center">
-# Python
-# C#
+- Python,
+- C#
 </div>
 </td><td valign="top" width="20%">
   
 ### learning method
 <div align="center">
-# Deep_learning
-# supervised learning
-# transfer learning
+- Deep_learning,
+- supervised learning,
+- transfer learning
 </div>   
 </td><td valign="top" width="20%">
 
 ### AI Technology
 <div align="center">
-- Object Detection
+- Object Detection,
 - Find Pose
 </div>   
 </td><td valign="top" width="20%">
 
 ### Optimizer
 <div align="center">
-- SGD, Loss, Box_loss, Label_loss, Nan방지
+- SGD, 
+  Loss, 
+  Box_loss, 
+  Label_loss, 
+  Nan방지
 </div>  
 </td></tr></table>
 
