@@ -10,21 +10,21 @@
 - 어린이안전교육이 부족하며, 현장에서 배우는 것이 아닌 이론으로 배우기 때문에 현장에서 사고가 많으며 돌발행동이 많음
 
 ## 개발
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="20%">
   
 ### Editor
 <div align="center">
 # Pycharm
 # Unity
 </div>   
-</td><td valign="top" width="50%">
+</td><td valign="top" width="20%">
   
 ### Language
 <div align="center">
 # Python
 # C#
 </div>
-</td><td valign="top" width="50%">
+</td><td valign="top" width="20%">
   
 ### learning method
 <div align="center">
@@ -32,14 +32,14 @@
 # supervised learning
 # transfer learning
 </div>   
-</td><td valign="top" width="50%">
+</td><td valign="top" width="20%">
 
 ### AI Technology
 <div align="center">
 - Object Detection
 - Find Pose
 </div>   
-</td><td valign="top" width="50%">
+</td><td valign="top" width="20%">
 
 ### Optimizer
 <div align="center">
