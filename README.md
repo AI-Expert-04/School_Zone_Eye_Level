@@ -17,12 +17,15 @@
 - Pycharm
 - Unity
 </div>  
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 ### Language
+<div align="center">
+</div>
 - Python
 - C#
-</td></tr></table>
+</div>
+</td><td valign="top" width="50%">
 
 ### learning method
 - Deep_learning
