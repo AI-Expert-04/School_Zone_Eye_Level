@@ -24,19 +24,27 @@
 # Python
 # C#
 </div>
-</td></tr></table>
 
 ### learning method
-- Deep_learning
-- supervised learning
-- transfer learning
+<div align="center">
+# Deep_learning
+# supervised learning
+# transfer learning
+</div>   
+</td><td valign="top" width="50%">
 
 ### AI Technology
+<div align="center">
 - Object Detection
 - Find Pose
+</div>   
+</td><td valign="top" width="50%">
 
 ### Optimizer
+<div align="center">
 - SGD, Loss, Box_loss, Label_loss, Nan방지
+</div>  
+</td></tr></table>
 
 ## 사용방법
 git clone
