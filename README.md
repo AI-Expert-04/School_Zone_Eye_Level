@@ -14,8 +14,8 @@
   
 ### Editor
 <div align="center">
-- Pycharm,
-- Unity
+  Pycharm,
+  Unity
 </div>   
 </td><td valign="top" width="20%">
   
