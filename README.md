@@ -1,8 +1,8 @@
 
 <p align=center>
 <img src="README_Video_AND_Image/image1.png" width="70%"></img>
+<width="460" src="https://github.com/AI-Expert-04/AI-Expert-04/blob/main/.idea/ezgif.com-gif-maker.gif">
 </p>
-<img align="top" width="460" src="https://github.com/AI-Expert-04/AI-Expert-04/blob/main/.idea/ezgif.com-gif-maker.gif">
 
 ## 개발 의도
 - 아이들을 지키기 위한 스쿨존에서 사고가 제일 많이 발생하여, 스쿨존 교통사고 예방은 어린이안전교육 확대가 우선이라고 생각하여 개발함.
