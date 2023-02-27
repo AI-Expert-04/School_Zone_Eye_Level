@@ -17,8 +17,17 @@
 - Python
 - C#
 
-## 기술
-- 딥러닝, 전이학습, 지도학습, Object_Detection, Optimizer, SGD, Loss, Box_loss, Label_loss, Nan방지, 영상처리, 포즈인식, find_pose
+## learning method
+- Deep_learning
+- supervised learning
+- transfer learning
+
+### AI Technology
+- Object Detection
+- Find Pose
+
+### Optimizer
+- SGD, Loss, Box_loss, Label_loss, Nan방지
 
 ## 사용방법
 git clone
