@@ -67,7 +67,7 @@ git clone
         'bed', 'dining table', 'toilet', 'tv', 'laptop', 'mouse', 'remote', 'keyboard', 'cell phone', 'microwave', 'oven', 
         'toaster', 'sink', 'refrigerator', 'book', 'clock', 'vase', 'scissors', 'teddy bear', 'hair drier', 'toothbrush']  # class names </code></pre>
 
-<details open>
+<details close>
 <summary>파일구조</summary>
   
 ```
