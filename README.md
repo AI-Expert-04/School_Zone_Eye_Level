@@ -67,8 +67,10 @@ git clone
         'bed', 'dining table', 'toilet', 'tv', 'laptop', 'mouse', 'remote', 'keyboard', 'cell phone', 'microwave', 'oven', 
         'toaster', 'sink', 'refrigerator', 'book', 'clock', 'vase', 'scissors', 'teddy bear', 'hair drier', 'toothbrush']  # class names </code></pre>
 
-yolov5 model weight를 전이학습시켜
+
 ## 파일구조
+<details open>
+<summary>Install</summary>
 ```
 CCTV_Detecter
  |---- yolov5
@@ -105,6 +107,7 @@ CCTV_Detecter
  |    |    |    |---- right.mp3------------|
  |---- Finall.py -----| 포즈 감지 코드
 ```
+</details>
 
 Pyhon 코드 파일
 
