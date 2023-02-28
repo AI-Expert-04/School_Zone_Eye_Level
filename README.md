@@ -67,10 +67,9 @@ git clone
         'bed', 'dining table', 'toilet', 'tv', 'laptop', 'mouse', 'remote', 'keyboard', 'cell phone', 'microwave', 'oven', 
         'toaster', 'sink', 'refrigerator', 'book', 'clock', 'vase', 'scissors', 'teddy bear', 'hair drier', 'toothbrush']  # class names </code></pre>
 
-
-## 파일구조
 <details open>
 <summary>Install</summary>
+## 파일구조
 ```
 CCTV_Detecter
  |---- yolov5
