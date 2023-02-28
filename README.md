@@ -68,8 +68,8 @@ git clone
         'toaster', 'sink', 'refrigerator', 'book', 'clock', 'vase', 'scissors', 'teddy bear', 'hair drier', 'toothbrush']  # class names </code></pre>
 
 <details open>
-<summary>Install</summary>
-## 파일구조
+<summary>파일구조</summary>
+  
 ```
 CCTV_Detecter
  |---- yolov5
@@ -106,6 +106,7 @@ CCTV_Detecter
  |    |    |    |---- right.mp3------------|
  |---- Finall.py -----| 포즈 감지 코드
 ```
+  
 </details>
 
 Pyhon 코드 파일
