@@ -55,7 +55,9 @@
 ## 사용방법
 git clone
 
-### class
+<details close>
+<summary>class</summary>
+  
 #### class.ymal
 <pre><code>nc: 85:
   names: ['Kid', 'Adult', 'R_Signal', 'G_Signal', 'Cross' 'person', 'bicycle', 'car', 'motorcycle', 'airplane', 'bus', 
@@ -66,6 +68,8 @@ git clone
         'sandwich', 'orange', 'broccoli', 'carrot', 'hot dog', 'pizza', 'donut', 'cake', 'chair', 'couch', 'potted plant', 
         'bed', 'dining table', 'toilet', 'tv', 'laptop', 'mouse', 'remote', 'keyboard', 'cell phone', 'microwave', 'oven', 
         'toaster', 'sink', 'refrigerator', 'book', 'clock', 'vase', 'scissors', 'teddy bear', 'hair drier', 'toothbrush']  # class names </code></pre>
+
+</details>
 
 <details close>
 <summary>파일구조</summary>
