@@ -56,7 +56,7 @@
 git clone
 
 ### class
-##### class.ymal
+#### class.ymal
 <pre><code>nc: 85:
   names: ['Kid', 'Adult', 'R_Signal', 'G_Signal', 'Cross' 'person', 'bicycle', 'car', 'motorcycle', 'airplane', 'bus', 
         'train', 'truck', 'boat', 'traffic light', 'fire hydrant', 'stop sign', 'parking meter', 'bench', 'bird', 'cat', 
