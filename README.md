@@ -55,7 +55,6 @@
 ## 사용방법
 git clone
 
-deep learning 
 ### class
 ##### class.ymal
 <pre><code>nc: 85:
