@@ -52,9 +52,6 @@
 </div>  
 </td></tr></table>
 
-## 사용방법
-git clone
-
 <details close>
 <summary>class</summary>
   
@@ -113,8 +110,8 @@ CCTV_Detecter
   
 </details>
 
-# 시뮬레이션
-# ppt 
+시뮬레이션
+ppt
 
 Pyhon 코드 파일
 
