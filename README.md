@@ -112,7 +112,7 @@ CCTV_Detecter
 
 시뮬레이션
 ppt
-
+https://mail.google.com/mail/u/0/#sent/KtbxLwgsvsgTxcZlrHhMNQSxNsRvLVScgB?projector=1
 
 Pyhon 코드 파일
 
